@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VXV",
+    "XCX",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:remobra_scale"
+    },
+    "C": {
+      "item": "lycanitesmobs:venomshotcharge"
+    },
+    "V": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:remobra_scale_helmet",
+    "count": 1
+  }
+}

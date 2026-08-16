@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XVX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:maka_hide"
+    },
+    "C": {
+      "item": "lycanitesmobs:lightballcharge"
+    },
+    "V": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:maka_hide_chestplate",
+    "count": 1
+  }
+}

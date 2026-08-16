@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [ "N", "S", "N" ],
+  "key": {
+    "N": { "item": "minecraft:netherite_ingot" },
+    "S": { "item": "lycanitesmobs:bloodsummoningstaff" }
+  },
+  "result": { "item": "lycaniteskin:corrupted_blood_summoning_staff", "count": 1 }
+}

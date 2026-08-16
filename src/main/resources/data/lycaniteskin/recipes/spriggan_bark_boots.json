@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "XCX",
+    "V V"
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:spriggan_bark"
+    },
+    "C": {
+      "item": "lycanitesmobs:lifedraincharge"
+    },
+    "V": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:spriggan_bark_boots",
+    "count": 1
+  }
+}

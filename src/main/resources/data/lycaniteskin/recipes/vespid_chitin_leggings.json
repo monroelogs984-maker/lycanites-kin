@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "VCV",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:vespid_chitin"
+    },
+    "C": {
+      "item": "lycanitesmobs:poisonraycharge"
+    },
+    "V": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:vespid_chitin_leggings",
+    "count": 1
+  }
+}

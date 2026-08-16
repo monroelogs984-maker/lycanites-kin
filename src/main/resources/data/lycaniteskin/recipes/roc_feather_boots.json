@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "XCX",
+    "V V"
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:roc_feather"
+    },
+    "C": {
+      "item": "lycanitesmobs:whirlwindcharge"
+    },
+    "V": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:roc_feather_boots",
+    "count": 1
+  }
+}

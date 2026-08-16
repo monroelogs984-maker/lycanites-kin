@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VXV",
+    "XCX",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:raiko_feather"
+    },
+    "C": {
+      "item": "lycanitesmobs:aetherwavecharge"
+    },
+    "V": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:raiko_feather_helmet",
+    "count": 1
+  }
+}

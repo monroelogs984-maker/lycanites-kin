@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[dependencies.lycaniteskin]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.lycaniteskin]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.lycaniteskin]]
+    modId="lycanitesmobs"
+    mandatory=true
+    versionRange="*"
+    ordering="AFTER"
+    side="BOTH"
+
+[[mods]]
+    modId="lycaniteskin"
+    version="1.1"
+    displayName="Lycanites Kin"
+    description="Expands Lycanites Mobs: creature drop armor sets, full taming/summoning, and more."
+    authors="glennfo"

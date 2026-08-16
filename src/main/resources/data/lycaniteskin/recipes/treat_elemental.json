@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " MM",
+    "BBM",
+    " MM"
+  ],
+  "key": {
+    "B": { "item": "minecraft:bone" },
+    "M": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "item": "lycaniteskin:treat_elemental",
+    "count": 4
+  }
+}

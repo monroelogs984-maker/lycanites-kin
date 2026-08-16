@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "lycaniteskin:ioray_membrane" },
+    { "item": "minecraft:paper" },
+    { "item": "minecraft:gold_nugget" }
+  ],
+  "result": { "item": "lycaniteskin:scroll_ioray", "count": 1 }
+}

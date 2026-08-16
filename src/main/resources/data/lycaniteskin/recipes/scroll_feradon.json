@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:string" },
+    { "item": "minecraft:paper" },
+    { "item": "minecraft:gold_nugget" }
+  ],
+  "result": { "item": "lycaniteskin:scroll_feradon", "count": 1 }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VXV",
+    "XCX",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:ioray_membrane"
+    },
+    "C": {
+      "item": "lycanitesmobs:waterjetcharge"
+    },
+    "V": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:ioray_membrane_helmet",
+    "count": 1
+  }
+}

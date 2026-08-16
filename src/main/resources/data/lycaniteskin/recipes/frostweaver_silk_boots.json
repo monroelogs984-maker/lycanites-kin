@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "XCX",
+    "V V"
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:frostweaver_silk"
+    },
+    "C": {
+      "item": "lycanitesmobs:frostwebcharge"
+    },
+    "V": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:frostweaver_silk_boots",
+    "count": 1
+  }
+}

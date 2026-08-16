@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XVX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:salamander_scale"
+    },
+    "C": {
+      "item": "lycanitesmobs:magmacharge"
+    },
+    "V": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:salamander_scale_chestplate",
+    "count": 1
+  }
+}

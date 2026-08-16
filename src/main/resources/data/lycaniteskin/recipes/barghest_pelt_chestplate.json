@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XVX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:barghest_pelt"
+    },
+    "C": {
+      "item": "lycanitesmobs:faeboltcharge"
+    },
+    "V": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:barghest_pelt_chestplate",
+    "count": 1
+  }
+}

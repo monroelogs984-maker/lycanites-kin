@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VXV",
+    "XCX",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:yale_hide"
+    },
+    "C": {
+      "item": "lycanitesmobs:mudshotcharge"
+    },
+    "V": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:yale_hide_helmet",
+    "count": 1
+  }
+}

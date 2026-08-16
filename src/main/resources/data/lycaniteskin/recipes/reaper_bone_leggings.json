@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "VCV",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:reaper_bone"
+    },
+    "C": {
+      "item": "lycanitesmobs:spectralboltcharge"
+    },
+    "V": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:reaper_bone_leggings",
+    "count": 1
+  }
+}

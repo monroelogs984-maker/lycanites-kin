@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XVX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:dawon_pelt"
+    },
+    "C": {
+      "item": "lycanitesmobs:arcanelaserstormcharge"
+    },
+    "V": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:dawon_pelt_chestplate",
+    "count": 1
+  }
+}

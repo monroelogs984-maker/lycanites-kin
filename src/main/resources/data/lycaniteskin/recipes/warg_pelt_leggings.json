@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "VCV",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:warg_pelt"
+    },
+    "C": {
+      "item": "lycanitesmobs:mudshotcharge"
+    },
+    "V": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:warg_pelt_leggings",
+    "count": 1
+  }
+}

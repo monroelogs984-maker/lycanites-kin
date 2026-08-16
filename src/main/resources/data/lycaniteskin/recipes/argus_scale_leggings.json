@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "VCV",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "lycaniteskin:argus_scale"
+    },
+    "C": {
+      "item": "lycanitesmobs:chaosorbcharge"
+    },
+    "V": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "lycaniteskin:argus_scale_leggings",
+    "count": 1
+  }
+}
